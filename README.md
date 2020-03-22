@@ -1,4 +1,4 @@
-# Java Multithreading
+# Multithreading
 
 - Went through John Purcells Java Multithreading Udemy Course and coded up his examples while watching
 - Covered how to write effective multi-threaded code in Java
